@@ -1,0 +1,10 @@
+C:\Users\jaime\source\repos\LoginJose\LoginJose\bin\Debug\LoginJose.exe.config
+C:\Users\jaime\source\repos\LoginJose\LoginJose\bin\Debug\LoginJose.exe
+C:\Users\jaime\source\repos\LoginJose\LoginJose\bin\Debug\LoginJose.pdb
+C:\Users\jaime\source\repos\LoginJose\LoginJose\obj\Debug\LoginJose.csproj.AssemblyReference.cache
+C:\Users\jaime\source\repos\LoginJose\LoginJose\obj\Debug\LoginJose.Properties.Resources.resources
+C:\Users\jaime\source\repos\LoginJose\LoginJose\obj\Debug\LoginJose.csproj.GenerateResource.cache
+C:\Users\jaime\source\repos\LoginJose\LoginJose\obj\Debug\LoginJose.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\LoginJose\LoginJose\obj\Debug\LoginJose.exe
+C:\Users\jaime\source\repos\LoginJose\LoginJose\obj\Debug\LoginJose.pdb
+C:\Users\jaime\source\repos\LoginJose\LoginJose\obj\Debug\LoginJose.Form1.resources
